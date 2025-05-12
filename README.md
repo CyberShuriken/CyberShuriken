@@ -21,16 +21,6 @@ A lightweight automation toolkit for bug bounty recon combining subdomain enumer
 - **Tech Stack**: Bash, Python, Nmap, Amass, Subfinder, Wfuzz, Nuclei
 - **Highlights**: Streamlined recon process, modular design, and customizable integrations.
 
-### 🔹 [AI Bug Detection Tool](https://github.com/CyberShuriken/AI-Bug-Detector)
-An experimental AI-powered bug detector that scans web applications and generates vulnerability reports.
-- **Tech Stack**: Python, OpenAI API, Flask
-- **Highlights**: Integrates static analysis with NLP to interpret risky patterns and suggest patches.
-
-### 🔹 [ReconShell](https://github.com/CyberShuriken/ReconShell)
-A custom command-line shell for automating OSINT and web reconnaissance in red team engagements.
-- **Tech Stack**: Bash, Python
-- **Highlights**: Fast, customizable, and built for CTF and bug bounty challenges.
-
 ---
 
 ## 🧠 Skills
