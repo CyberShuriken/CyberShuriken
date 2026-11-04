@@ -31,7 +31,7 @@ I hunt bugs on HackerOne, play CTFs, and build the tools I wish I had: recon pip
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/simantobalashomo)
 - 🐦 [X](https://x.com/simanto_shomo)
-- 🐞 [HackerOne](https://hackerone.com/simanto)
+- 🐞 [HackerOne](https://hackerone.com/soumo6t9)
 - 📧 [simantobala89@gmail.com](mailto:simantobala89@gmail.com)
 
 > All security testing I do is on authorized programs and systems I have permission to test.
