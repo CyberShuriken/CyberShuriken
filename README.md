@@ -21,9 +21,9 @@ I hunt bugs on HackerOne, play CTFs, and build the tools I wish I had: recon pip
 
 ## 🧠 Skills & Tools
 
-**Languages:** Python · Go · Rust · Bash · C · TypeScript/JavaScript
-**Security:** Burp Suite · Nmap · Metasploit · nuclei · ffuf · sqlmap · Wireshark
-**Platforms:** Linux (Fedora, Kali) · Docker · Git
+- **Languages:** Python · Go · Rust · Bash · C · TypeScript/JavaScript
+- **Security:** Burp Suite · Nmap · Metasploit · nuclei · ffuf · sqlmap · Wireshark
+- **Platforms:** Linux (Fedora, Kali) · Docker · Git
 
 ---
 
